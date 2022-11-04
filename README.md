@@ -4,7 +4,7 @@
 •	👯 I’m looking to collaborate with other Developers 😉<br>
 •	🥅 2022 Goals: Contribute to Open Source projects<br>
 •	💬 Ask me about anything, I am happy to help 😄<br>
-•	📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/sachinkumar118/]<br>
+•	📬 How to reach me: [Let's get in touch!]<a href="https://www.linkedin.com/in/sachinkumar118/">Linkedin</a><br>
 •	🧗 I try to: Go beyond and push the bounds<br>
 •	⚡ Fun fact: I love do coding 🙌<br>
 
