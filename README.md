@@ -1,5 +1,4 @@
-• 👋 Hi<br>
-        <p>    </p>I’m a Computer Engineering Student. Just learning and constantly putting efforts to become a good Programmer and Developer .<br>
+• 👋 Hi, I’m a Computer Engineering Student. Just learning and constantly putting efforts to become a good Programmer and Developer .<br>
 •	🔭 I’m currently learning Backend Development.<br>
 •	👯 I’m looking to collaborate with other Developers 😉<br>
 •	🥅 2022 Goals: Contribute to Open Source projects<br>
