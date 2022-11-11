@@ -1,7 +1,6 @@
 • 👋 Hi, I’m a Computer Engineering Student. Just learning and constantly putting efforts to become a good Developer.<br>
 •	🔭 I’m currently learning Backend Development.<br>
 •	👯 I’m looking to collaborate with other Developers 😉<br>
-•	🥅 2022 Goals: Contribute to Open Source projects<br>
 •	💬 Ask me about anything, I am happy to help 😄<br>
 •	📬 How to reach me:<a href="https://www.linkedin.com/in/sachinkumar118/">[Let's get in touch!]</a>on LinkedIn<br>
 •	🧗 I try to: Go beyond and push the bounds<br>
